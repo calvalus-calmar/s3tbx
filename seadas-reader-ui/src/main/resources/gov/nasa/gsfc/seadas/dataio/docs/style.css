@@ -179,3 +179,8 @@ hr {
     border-style: solid;
     border-width: 1;
 }
+
+.center {
+    text-align: center;
+
+}
